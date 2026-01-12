@@ -35,4 +35,11 @@ Supports regional marketing and expansion strategies
 - 7️⃣ Weekly Trend Analysis - 
 Tracks weekly sales fluctuations
 Helps detect consistency, peaks, or anomalies in demand
+# 📌 Insights Enabled
+- Revenue performance tracking
+- Customer satisfaction analysis
+- Regional and city-level sales comparison
+- Time-based trend identification
+- Strategic decision support
+
 
